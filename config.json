@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Společné vedení / oponentury",
-    "colorLabel": "Modalitní shluky",
+    "colorLabel": "Analýza komunit",
     "nodeLabel": "Oponent / vedoucí"
   },
   "features": {
