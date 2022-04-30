@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://i.ibb.co/jJYkp1L/logo-kisk.png",
+    "link": "",
+    "text": "KISK30: Kdo s kým?"
+  },
+  "text": {
+    "more": "Má to mouchy.",
+    "intro": "Kdo s kým vede a oponuje práce na KISKu. První verze. Analýza nad daty o obhajobách proběhlých na KISKu od 1. 1. 2015 (n = 569).",
+    "title": "KISK30: Kdo s kým?"
+  },
+  "legend": {
+    "edgeLabel": "Společné vedení / oponentury",
+    "colorLabel": "Modalitní shluky",
+    "nodeLabel": "Oponent / vedoucí"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "line",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 40,
+      "minEdgeSize": 0.1,
+      "minNodeSize": 5,
+      "maxNodeSize": 25
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
