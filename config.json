@@ -13,9 +13,9 @@
     "title": "KISK30: Diplomkové tandemy"
   },
   "legend": {
-    "edgeLabel": "Společné vedení / oponentury",
-    "colorLabel": "Analýza komunit",
-    "nodeLabel": "Oponent / vedoucí"
+    "edgeLabel": "Síla tandemu",
+    "colorLabel": "Identifikované komunity",
+    "nodeLabel": "Oponenti / vedoucí"
   },
   "features": {
     "search": true,
